@@ -28,3 +28,5 @@ cursor.close()
 connection.close()
 
 print("foi cadastrado o novo usuario de ID:", userid)
+
+# https://github.com/MatheusEstrela-dev/crud_python
